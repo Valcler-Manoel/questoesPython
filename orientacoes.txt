@@ -1,0 +1,10 @@
+Olá, isso é um editor de texto.
+
+*! Para rodar um código, pressione CTRL + SHIT + F10
+
+- DICA: Aperte CTRL D para copiar e colar instantâneamente o código selecionado. - SHIFT e Seta para baixo
+para selecionar um campo de texto.
+
+* CTRL F para buscar no código e CTRL R para substituir
+*! CTRL + / para comentar várias linhas de códigos
+*! É possível escrever TODOS no código, bastar começar um comentário e adicionar "#TODO1 no começo" - sem 1.
